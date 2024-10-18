@@ -15,9 +15,9 @@
   <tbody>
     <tr>
       <td>1</td>
-      <td>Nama Siswa 1</td>
-      <td>[Belum/Menunggu/OK]</td>
-      <td><a target="_blank" href="URL_Tugas_1">Link Tugas 1</a></td>
+      <td>Ahmad khulaifi (07)</td>
+      <td>[OK]</td>
+      <td><a target="_blank" href="URL_Tugas_1">https://docs.google.com/document/d/1C9CRXVqXxFwE42gPm6A3cqF92zKq1qEYXT6260A1vok/edit?usp=sharing</a></td>
     </tr>
     <tr>
       <td>2</td>
